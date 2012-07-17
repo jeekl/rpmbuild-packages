@@ -4,7 +4,7 @@ said specfile.
 
 # Requirements
 ## Cookbooks
-Depends on [lusis' rpmbuild cookbook](https://github.com/lusis/lusis-cookbooks/).
+Depends on [rpmbuild cookbook](https://github.com/jeekl/rpmbuild.git).
 ## Platform
 Only tested on
 - Centos 5
